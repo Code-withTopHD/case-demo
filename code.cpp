@@ -11,7 +11,7 @@ int main() {
     getline(cin, name);
 
     // Greet the user
-    cout << "Hello this is , " << name << "!" << endl;
+    cout << "Hello, " << name << "!" << endl;
 
     return 0;
 }
